@@ -10,3 +10,4 @@ Ejemplo de uso de ramas.
     - Fix 4.
 5. Feature 5.
 6. Feature 6.
+7. Feature 7.
