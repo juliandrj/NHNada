@@ -6,7 +6,8 @@ Ejemplo de uso de ramas.
 2. Feature 2.
     - Fix 2.
 3. Feature 3.
-    - Fix 4.
 4. Feature 4.
+    - Fix 4.
 5. Feature 5.
+    - Fix 5.
 6. Feature 6.
